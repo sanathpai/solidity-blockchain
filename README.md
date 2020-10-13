@@ -1,4 +1,4 @@
-# Donation Tracking System  
+# Scholarship Scheme Tracker
 
 ### Authors  
 1. Anusha N Malavalli (4NM17CS029)
