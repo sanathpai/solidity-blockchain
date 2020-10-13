@@ -1,8 +1,9 @@
-# Scholarship Scheme Tracker
+# 
 
 ### Authors  
 1. Anusha N Malavalli (4NM17CS029)
-2. Member 2(4NM17CS)
+2. Agnith Priscilla (4NM17CS012)
+3. Atul K (4NM17CS037)
 
 
 ### Introduction
