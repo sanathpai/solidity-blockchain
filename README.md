@@ -1,9 +1,7 @@
  # Student Scholarship Sceheme
 
 ### Authors  
-1. Anusha N Malavalli (4NM17CS029)
-2. Agnith Priscilla (4NM17CS012)
-3. Atul K (4NM17CS037)
+1. Sanath Radhakrishna Pai
 
 
 ### Introduction
